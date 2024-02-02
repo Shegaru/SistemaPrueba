@@ -1,0 +1,17 @@
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\bin\Debug\net6.0\SistemaPrueba.Utility.deps.json
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\bin\Debug\net6.0\SistemaPrueba.Utility.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\bin\Debug\net6.0\SistemaPrueba.Utility.pdb
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\obj\Debug\net6.0\SistemaPrueba.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\obj\Debug\net6.0\SistemaPrueba.Utility.AssemblyInfoInputs.cache
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\obj\Debug\net6.0\SistemaPrueba.Utility.AssemblyInfo.cs
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\obj\Debug\net6.0\SistemaPrueba.Utility.csproj.CoreCompileInputs.cache
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\obj\Debug\net6.0\SistemaPrueba.Utility.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\obj\Debug\net6.0\refint\SistemaPrueba.Utility.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\obj\Debug\net6.0\SistemaPrueba.Utility.pdb
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\obj\Debug\net6.0\ref\SistemaPrueba.Utility.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\bin\Debug\net6.0\SistemaPrueba.DTO.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\bin\Debug\net6.0\SistemaPrueba.Model.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\bin\Debug\net6.0\SistemaPrueba.DTO.pdb
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\bin\Debug\net6.0\SistemaPrueba.Model.pdb
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\obj\Debug\net6.0\SistemaPrueba.Utility.csproj.AssemblyReference.cache
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Utility\obj\Debug\net6.0\SistemaPrueba.Utility.csproj.CopyComplete

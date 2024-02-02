@@ -1,0 +1,11 @@
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DTO\bin\Debug\net6.0\SistemaPrueba.DTO.deps.json
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DTO\bin\Debug\net6.0\SistemaPrueba.DTO.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DTO\bin\Debug\net6.0\SistemaPrueba.DTO.pdb
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DTO\obj\Debug\net6.0\SistemaPrueba.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DTO\obj\Debug\net6.0\SistemaPrueba.DTO.AssemblyInfoInputs.cache
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DTO\obj\Debug\net6.0\SistemaPrueba.DTO.AssemblyInfo.cs
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DTO\obj\Debug\net6.0\SistemaPrueba.DTO.csproj.CoreCompileInputs.cache
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DTO\obj\Debug\net6.0\SistemaPrueba.DTO.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DTO\obj\Debug\net6.0\refint\SistemaPrueba.DTO.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DTO\obj\Debug\net6.0\SistemaPrueba.DTO.pdb
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DTO\obj\Debug\net6.0\ref\SistemaPrueba.DTO.dll

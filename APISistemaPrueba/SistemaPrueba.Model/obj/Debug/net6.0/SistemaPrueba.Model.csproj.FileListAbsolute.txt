@@ -1,0 +1,14 @@
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Model\bin\Debug\net6.0\SistemaPrueba.Model.deps.json
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Model\bin\Debug\net6.0\SistemaPrueba.Model.runtimeconfig.json
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Model\bin\Debug\net6.0\SistemaPrueba.Model.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Model\bin\Debug\net6.0\SistemaPrueba.Model.pdb
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Model\obj\Debug\net6.0\SistemaPrueba.Model.csproj.AssemblyReference.cache
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Model\obj\Debug\net6.0\SistemaPrueba.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Model\obj\Debug\net6.0\SistemaPrueba.Model.AssemblyInfoInputs.cache
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Model\obj\Debug\net6.0\SistemaPrueba.Model.AssemblyInfo.cs
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Model\obj\Debug\net6.0\SistemaPrueba.Model.csproj.CoreCompileInputs.cache
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Model\obj\Debug\net6.0\SistemaPrueba.Model.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Model\obj\Debug\net6.0\refint\SistemaPrueba.Model.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Model\obj\Debug\net6.0\SistemaPrueba.Model.pdb
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Model\obj\Debug\net6.0\SistemaPrueba.Model.genruntimeconfig.cache
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.Model\obj\Debug\net6.0\ref\SistemaPrueba.Model.dll

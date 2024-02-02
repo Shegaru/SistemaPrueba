@@ -1,0 +1,15 @@
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DAL\bin\Debug\net6.0\SistemaPrueba.DAL.deps.json
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DAL\bin\Debug\net6.0\SistemaPrueba.DAL.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DAL\bin\Debug\net6.0\SistemaPrueba.DAL.pdb
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DAL\obj\Debug\net6.0\SistemaPrueba.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DAL\obj\Debug\net6.0\SistemaPrueba.DAL.AssemblyInfoInputs.cache
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DAL\obj\Debug\net6.0\SistemaPrueba.DAL.AssemblyInfo.cs
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DAL\obj\Debug\net6.0\SistemaPrueba.DAL.csproj.CoreCompileInputs.cache
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DAL\obj\Debug\net6.0\SistemaPrueba.DAL.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DAL\obj\Debug\net6.0\refint\SistemaPrueba.DAL.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DAL\obj\Debug\net6.0\SistemaPrueba.DAL.pdb
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DAL\obj\Debug\net6.0\ref\SistemaPrueba.DAL.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DAL\bin\Debug\net6.0\SistemaPrueba.Model.dll
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DAL\bin\Debug\net6.0\SistemaPrueba.Model.pdb
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DAL\obj\Debug\net6.0\SistemaPrueba.DAL.csproj.AssemblyReference.cache
+C:\Users\scard\Downloads\PRUEBA_YEMINUS\APISistemaPrueba\SistemaPrueba.DAL\obj\Debug\net6.0\SistemaPrueba.DAL.csproj.CopyComplete
